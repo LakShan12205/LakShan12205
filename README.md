@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  <b>Cybersecurity Enthusiast | Python Developer | Final Year Undergrad</b>
+  <b>Final Year Cybersecurity Student @ SLTC Research University<br/>
+  SOC Trainee | Penetration Tester | Python Developer<br/>
+  Focused on Phishing Detection, Secure App Development & Cyber Defense</b>
 </p>
 
 ---
@@ -58,7 +60,7 @@
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kavindu-lakshan-13a917280/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/LakShan12205)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/kavilakshan81)
 
